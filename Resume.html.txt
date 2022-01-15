@@ -1,0 +1,69 @@
+<HTML>
+
+<HEAD>
+
+<TITLE>Resume</TITLE>
+
+</HEAD>
+
+<BODY BGCOLOR= MediumSeaGreen>
+
+<H1> Piyush Rajput</H1>
+
+<TABLE WIDTH=”100%”>
+
+<TD ALIGN=”right”>Email: piyush.2124mca1145@kiet.edu</a>   </
+
+TD></TR>
+
+<TD ALIGN=”right”>Linkedin: https://www.linkedin.com/in/piyush-rajput-549a731b1 <a href="https://www.linkedin.com/in/piyush-rajput-549a731b1s">link text</a> 
+</TR>
+
+
+<TABLE><TR><TD>&nbsp;</TD>
+<H2>Experience</H2>
+<H3>Project Title:-3 weeks (or 140 hrs) IOT <br>3 Dec 2020 – 1 Jan 2021.</H3>
+<TABLE><TR><TD>&nbsp;</TD>
+
+<TD>TATA Consultants and Technology Pvt.Ltd.<BR>
+</LI></UL></TD></TR></TABLE>
+<H3>Project Title:- Six Week Industrial Training Program 
+<br>20,June,2021 – 26,July,2019</H3>
+<TABLE><TR><TD>&nbsp;</TD>
+<TD> Wipro Software manual testing. Ltd<BR>
+<UL>
+<LI>College:- SRM collage Modi Nagar,Ghaziabad.<br>Technology:- C/C++.</LI>
+
+</UL></TD></TR>
+</TABLE>
+<H2>Language</H2>
+
+<TABLE><TR>
+<TD>&nbsp;</TD>
+<UL><LI>C/C++</LI></UL>
+<UL><LI>Data Structures and Algorithms</LI>
+</UL>
+<UL><LI>Java,JDBC,Servlet,JSP</LI></UL>
+<UL><LI>HTML/CSS</LI></UL>
+
+
+
+<H2>Education</H2>
+<TABLE> 
+
+<TD>&nbsp;</TD>
+<TD>MCA (Masters of Computer Applications) — Nov 2021 – Present
+<BR>KIET Group of Institutions<BR>
+</TD>
+
+</TR></TABLE>
+<TABLE><TR><TD>&nbsp;</TD>
+<H2>Projects</H2>
+IOT in Robotics the concept of the Internet of Robotic Things (IoRT), where intelligent devices can monitor events, fuse sensor data from a variety of sources, use local and distributed intelligence to determine a best course of action, and then act to control or manipulate objects the physical world, and in some cases while
+<H3>
+
+<H2>Hobbies</H2>
+
+<TD>Exercise,Music</TD></TR></TABLE></BODY>
+</HTML><TD></TR></TABLE></BODY>
+</HTML>
